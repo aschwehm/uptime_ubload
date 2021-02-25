@@ -19,7 +19,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Ubload.Space
+    - title: Back to ubload.space
       href: https://www.ubload.space
 
 # Upptime also supports notifications, assigning issues, and more
