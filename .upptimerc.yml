@@ -4,8 +4,10 @@ repo: uptime_ubload # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Ubload.space
+  - name: Ubload.space Homepage
     url: https://www.ubload.space
+  - name: Ubload.space uploaded Images
+    url: https://www.ubload.space/uploads/1614268604.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
