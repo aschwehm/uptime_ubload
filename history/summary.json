@@ -4,7 +4,7 @@
     "url": "https://www.ubload.space",
     "icon": "https://favicons.githubusercontent.com/www.ubload.space",
     "slug": "ubload-space-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 548,
     "timeMonth": 569,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 0
+    }
   },
   {
     "name": "Ubload.space uploaded Images",
