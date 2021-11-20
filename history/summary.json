@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.ubload.space",
     "slug": "ubload-space-homepage",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.96%",
     "time": 733,
     "timeDay": 821,
     "timeWeek": 583,
     "timeMonth": 581,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2021-11-20": 1,
+      "2021-11-20": 12,
       "2021-11-06": 67,
       "2021-10-07": 36,
       "2021-03-18": 31
@@ -27,19 +27,19 @@
     "url": "https://www.ubload.space/uploads/1614268604.png",
     "icon": "https://favicons.githubusercontent.com/www.ubload.space",
     "slug": "ubload-space-uploaded-images",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 7759,
-    "timeWeek": 1951,
-    "timeMonth": 510,
+    "timeDay": 5182,
+    "timeWeek": 1737,
+    "timeMonth": 496,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2021-11-20": 0
+      "2021-11-20": 11
     }
   }
 ]
