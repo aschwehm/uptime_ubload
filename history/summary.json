@@ -6,17 +6,16 @@
     "slug": "ubload-space-homepage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 666,
     "timeDay": 482,
     "timeWeek": 541,
     "timeMonth": 531,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-05-25": 13,
       "2021-11-20": 69,
       "2021-11-06": 67,
       "2021-10-07": 36
@@ -29,9 +28,9 @@
     "slug": "ubload-space-uploaded-images",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
     "timeDay": 23,
@@ -39,7 +38,6 @@
     "timeMonth": 20,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2022-05-25": 13,
       "2021-11-20": 33
     }
   }
