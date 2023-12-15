@@ -4,19 +4,19 @@
     "url": "https://www.ubload.space",
     "icon": "https://icons.duckduckgo.com/ip3/www.ubload.space.ico",
     "slug": "ubload-space-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 623,
-    "timeDay": 4633,
-    "timeWeek": 1538,
-    "timeMonth": 772,
+    "time": 622,
+    "timeDay": 3212,
+    "timeWeek": 1408,
+    "timeMonth": 759,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2023-12-15": 0,
+      "2023-12-15": 6,
       "2023-10-12": 50,
       "2023-04-14": 31
     }
@@ -26,19 +26,19 @@
     "url": "https://www.ubload.space/uploads/1614268604.png",
     "icon": "https://icons.duckduckgo.com/ip3/www.ubload.space.ico",
     "slug": "ubload-space-uploaded-images",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 4255,
-    "timeWeek": 1076,
-    "timeMonth": 310,
-    "timeYear": 80,
+    "timeDay": 2840,
+    "timeWeek": 958,
+    "timeMonth": 301,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2023-12-15": 0
+      "2023-12-15": 6
     }
   }
 ]
