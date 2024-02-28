@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 592,
-    "timeDay": 782,
-    "timeWeek": 613,
-    "timeMonth": 552,
-    "timeYear": 596,
+    "timeDay": 428,
+    "timeWeek": 586,
+    "timeMonth": 547,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2023-10-12": 50,
       "2023-04-14": 31
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ubload.space.ico",
     "slug": "ubload-space-uploaded-images",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 11,
+    "timeDay": 13,
     "timeWeek": 14,
-    "timeMonth": 48,
+    "timeMonth": 27,
     "timeYear": 65,
     "dailyMinutesDown": {}
   }
