@@ -4,7 +4,7 @@
     "url": "https://www.ubload.space",
     "icon": "https://icons.duckduckgo.com/ip3/www.ubload.space.ico",
     "slug": "ubload-space-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1097,
     "timeYear": 648,
     "dailyMinutesDown": {
+      "2024-08-16": 0,
       "2023-10-12": 50
     }
   },
