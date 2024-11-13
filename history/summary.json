@@ -6,18 +6,16 @@
     "slug": "ubload-space-homepage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 558,
-    "timeWeek": 519,
-    "timeMonth": 529,
-    "timeYear": 604,
-    "dailyMinutesDown": {
-      "2024-11-12": 11
-    }
+    "timeDay": 666,
+    "timeWeek": 558,
+    "timeMonth": 536,
+    "timeYear": 605,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ubload.space uploaded Images",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 50,
-    "timeDay": 14,
-    "timeWeek": 15,
-    "timeMonth": 17,
+    "timeDay": 46,
+    "timeWeek": 19,
+    "timeMonth": 18,
     "timeYear": 51,
     "dailyMinutesDown": {}
   }
