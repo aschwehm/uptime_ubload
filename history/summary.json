@@ -6,17 +6,16 @@
     "slug": "ubload-space-homepage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.97%",
     "time": 649,
     "timeDay": 581,
     "timeWeek": 658,
     "timeMonth": 667,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-06-09": 12,
       "2025-05-21": 35,
       "2025-05-17": 31,
       "2025-05-16": 36,
@@ -28,9 +27,9 @@
     "url": "https://www.ubload.space/uploads/1614268604.png",
     "icon": "https://icons.duckduckgo.com/ip3/www.ubload.space.ico",
     "slug": "ubload-space-uploaded-images",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,6 +38,8 @@
     "timeWeek": 22,
     "timeMonth": 21,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-09": 0
+    }
   }
 ]
