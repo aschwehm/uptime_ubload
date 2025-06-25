@@ -27,19 +27,19 @@
     "url": "https://www.ubload.space/uploads/1614268604.png",
     "icon": "https://icons.duckduckgo.com/ip3/www.ubload.space.ico",
     "slug": "ubload-space-uploaded-images",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.74%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
-    "time": 39,
-    "timeDay": 261,
-    "timeWeek": 233,
-    "timeMonth": 149,
-    "timeYear": 43,
+    "time": 40,
+    "timeDay": 271,
+    "timeWeek": 241,
+    "timeMonth": 155,
+    "timeYear": 45,
     "dailyMinutesDown": {
-      "2025-06-25": 112
+      "2025-06-25": 99
     }
   }
 ]
